@@ -1,3 +1,4 @@
 # prova
-Aluno: Bruno Dias;
+Aluno: Bruno Dias
+
 Turma: CC5M
